@@ -1,5 +1,5 @@
 
-**AgricultureLink project
+AgricultureLink project
 =
 
 This project connecting agricultureres with dedicated volunteers.
