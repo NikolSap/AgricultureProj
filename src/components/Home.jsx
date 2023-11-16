@@ -34,7 +34,7 @@ function Home(){
              <div className="row d_flex">
                 <div className="titlepage text_align_left">
                   <h2>About Us</h2>
-                  <p>FarmLink is an innovative platform connecting farmers with dedicated volunteers. Our mission is to foster collaboration in the agricultural community, providing farmers the support they need and offering volunteers meaningful opportunities to contribute to sustainable farming practices. Join us in cultivating a network where hands-on help meets the growing needs of agriculture.
+                  <p>AgricultureLink is an innovative platform connecting farmers with dedicated volunteers. Our mission is to foster collaboration in the agricultural community, providing farmers the support they need and offering volunteers meaningful opportunities to contribute to sustainable farming practices. Join us in cultivating a network where hands-on help meets the growing needs of agriculture.
                   </p>                   
                 </div>
              </div>
