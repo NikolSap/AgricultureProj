@@ -1,0 +1,59 @@
+/* Add this CSS to your component's stylesheet or a separate CSS file */
+.box-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .box{
+    /* display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows:0.3fr 0.3fr 0.3fr 0.3fr ;
+    padding: 10px;
+    margin:15px; */
+   
+  }
+  
+  .data-box {
+    border: 2px solid #ccc;
+    /* padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    */
+    width: 600px;
+    cursor: pointer;
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+  .map{
+    padding-bottom: 15px;
+  }
+  
+
+  .data-box.selected {
+    background-color: lightblue;
+  }
+  
+  .selected {
+    background-color: lightblue;
+
+  }
+  .data-row {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+  }
+  
+  .data-label {
+    font-weight: bold;
+  }
+  
+  .data-value {
+    margin-left: 5px;
+  }
+  
+  .btn{
+    padding: 10px;;
+    margin: 10px;
+    border: 2px solid #ccc;
+  }
